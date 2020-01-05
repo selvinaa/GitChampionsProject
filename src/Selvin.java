@@ -3,6 +3,11 @@ public class Selvin {
     	String GG = "";
     	String Rocio = "";
     	String Merrim = "";
+    	String rev = "";
+    	for(int i = rev.lenght()-1; i >= 0; i--){
+    		rev += rev + (i);
+    	}
+    	System.out.println("Reversing string " + rev);
     	
 
     }
