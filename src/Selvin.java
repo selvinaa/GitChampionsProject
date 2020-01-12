@@ -8,7 +8,7 @@ public class Selvin {
     		rev += rev + (i);
     	}
     	System.out.println("Reversing string " + rev);
-    	
+    	System.out.println("printing trial Jan11-2020');
 
     }
 
